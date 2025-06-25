@@ -88,7 +88,7 @@ The rest (`Wire.h`, `freertos/…`) ship with the ESP32 core.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-name>/AirMouse-ESP32.git
+   git clone https://github.com/tejaspatelll/AirMouse-ESP32.git
    cd AirMouse-ESP32
    ```
 2. Open `esp32_MPU6050_Tensorlite.ino` in Arduino IDE.
